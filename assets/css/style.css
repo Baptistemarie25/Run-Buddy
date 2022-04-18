@@ -69,7 +69,6 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
 
 .hero-form {
     background-color: #fce138;
@@ -252,8 +251,8 @@ section {
 }
 
 .contact-info iframe {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
 }
 
 .contact-info div {
